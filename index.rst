@@ -31,6 +31,9 @@
 
 Welcome to zdoc's documentation!
 ================================
+
+I added new text here for check readthedocs automatically updates or not.
+
 zdoc documentation master file, created by
 sphinx-quickstart on **Tue Jan 11 18:14:13 2022.**
 You can adapt this file completely to `your` liking, but it should at least
