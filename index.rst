@@ -6,6 +6,15 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: ReadMe Files
+
+   README
+   aboutme
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: RST Examples
 
    Example/basic

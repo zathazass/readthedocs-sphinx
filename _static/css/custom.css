@@ -1,0 +1,4 @@
+.wy-nav-content {
+  /* for full viewport width */
+  max-width: 100% !important;
+}
